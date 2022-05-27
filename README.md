@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C++ and some other programming languages
 - 💞️ I’m looking to collaborate on software and game development
 - 📫 How to reach me: davi.f2silva@gmail.com
+-     or on twitter at @Dot_Mega_W
 
 <!---
 F2-Silva/F2-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
